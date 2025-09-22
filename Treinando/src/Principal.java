@@ -1,6 +1,6 @@
 
 public class Main {
-    public static void main(String[] args) {
+    public static void principal (String[] args) {
         System.out.println("Pagamento do primeiro cliente realizado");
 
        
